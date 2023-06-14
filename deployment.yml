@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name:  my-container
-          image: footballteams:v2
+          image: <your_image_name_tag>
           ports:
           - containerPort: 3000
