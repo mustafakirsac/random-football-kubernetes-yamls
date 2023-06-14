@@ -4,7 +4,7 @@ metadata:
   name: my-ingress
 spec:
   rules:
-    - host: randomfootball.local
+    - host: <your_domain_name>
       http:
         paths:
           - path: /
