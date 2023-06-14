@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-WORKDIR /home/mustafa/my-task/random-football-teams
+WORKDIR /app
 
 COPY package*.json ./
 
